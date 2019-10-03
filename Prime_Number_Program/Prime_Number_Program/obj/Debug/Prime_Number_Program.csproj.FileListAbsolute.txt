@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Prime_Number_Program\Prime_Number_Program\obj\Debug\Prime_Number_Program.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Prime_Number_Program\Prime_Number_Program\obj\Debug\Prime_Number_Program.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Prime_Number_Program\Prime_Number_Program\bin\Debug\Prime_Number_Program.exe.config
+D:\DEV\C#\Practice\Prime_Number_Program\Prime_Number_Program\bin\Debug\Prime_Number_Program.exe
+D:\DEV\C#\Practice\Prime_Number_Program\Prime_Number_Program\bin\Debug\Prime_Number_Program.pdb
+D:\DEV\C#\Practice\Prime_Number_Program\Prime_Number_Program\obj\Debug\Prime_Number_Program.exe
+D:\DEV\C#\Practice\Prime_Number_Program\Prime_Number_Program\obj\Debug\Prime_Number_Program.pdb
